@@ -1,4 +1,4 @@
-print("Hello, this is your program!\nYou can give me your name and age, and I'll say hello to you :)")
+print("Hello, this is your program!\nYou can name me and make up mage, and I'll say hi to you :)")
 
 user_name = input("What is my name?: ")
 user_age = int(input("How old am I?: "))
